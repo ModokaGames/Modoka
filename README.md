@@ -1,2 +1,0 @@
-# Modoka
-Modoka Repository
