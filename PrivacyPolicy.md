@@ -1,29 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Privacy Policy - Modoka Studios Entertainment</title>
-  <style>
-    body { margin: 0; font-family: Georgia, serif; color: #1a1a1a; background: #fff; }
-    .container { max-width: 760px; margin: 0 auto; padding: 3rem 2rem; }
-    h1 { font-size: 26px; font-weight: 700; margin-bottom: 0.25rem; }
-    .meta { font-size: 13px; color: #666; margin-bottom: 2.5rem; }
-    h2 { font-size: 15px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; margin-top: 2rem; margin-bottom: 0.5rem; border-bottom: 1px solid #e0e0e0; padding-bottom: 0.4rem; }
-    h3 { font-size: 14px; font-weight: 700; margin: 1rem 0 0.25rem 0; }
-    p, li { font-size: 14px; line-height: 1.8; color: #333; }
-    ul { padding-left: 1.5rem; }
-    a { color: #2563eb; }
-    .footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #e0e0e0; font-size: 12px; color: #999; }
-    .rights-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.75rem; margin: 1rem 0; }
-    .right-card { border: 0.5px solid #e0e0e0; border-radius: 8px; padding: 0.75rem 1rem; }
-    .right-card .title { font-size: 13px; font-weight: 700; margin-bottom: 0.25rem; }
-    .right-card .desc { font-size: 13px; color: #555; line-height: 1.6; }
-  </style>
-</head>
-<body>
-<div class="container">
-
   <h1>Privacy Policy</h1>
   <p class="meta">Modoka Studios Entertainment &nbsp;|&nbsp; Zwolle, Netherlands &nbsp;|&nbsp; Last updated: April 1, 2026</p>
 
